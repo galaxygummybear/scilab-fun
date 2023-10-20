@@ -4,5 +4,5 @@ end
 
 xdata = linspace(1, 10, 10)';
 ydata = myfunction(xdata);
-plot(xdata, ydata, 'b')
+plot(xdata, ydata, 'r')
 
